@@ -1,0 +1,26 @@
+.contact-info-heading {
+    text-align: center;
+    padding: 4rem 0 2rem 0;
+}
+
+.contact-info-container {
+    max-width: 1140px;
+    margin: auto;
+    padding-bottom: 5rem;
+}
+
+.contact-details {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 40px;
+}
+
+.contact-card {
+    background: #212020;
+    padding: 1.2rem 1rem;
+}
+
+.contact-title {
+    color: white;
+    padding: 1rem 0;
+}
