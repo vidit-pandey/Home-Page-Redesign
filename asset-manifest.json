@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Home-Page-Redesign/static/css/main.036bef75.css",
+    "main.js": "/Home-Page-Redesign/static/js/main.4f9d184f.js",
+    "static/media/home.jpeg": "/Home-Page-Redesign/static/media/home.6a477da99946885c2dda.jpeg",
+    "static/media/home2.jpg": "/Home-Page-Redesign/static/media/home2.4994be0500ba6be663d0.jpg",
+    "index.html": "/Home-Page-Redesign/index.html",
+    "main.036bef75.css.map": "/Home-Page-Redesign/static/css/main.036bef75.css.map",
+    "main.4f9d184f.js.map": "/Home-Page-Redesign/static/js/main.4f9d184f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.036bef75.css",
+    "static/js/main.4f9d184f.js"
+  ]
+}
